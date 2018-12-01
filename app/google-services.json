@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "88743033248",
+    "firebase_url": "https://pracexam-7b062.firebaseio.com",
+    "project_id": "pracexam-7b062",
+    "storage_bucket": "pracexam-7b062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88743033248:android:51c5b243f5157f64",
+        "android_client_info": {
+          "package_name": "com.casitas.hilary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88743033248-qa0uac3usfgoflbese45eqmnikukpljg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.casitas.hilary",
+            "certificate_hash": "977808957b754301234c33b199208f821d5f3f9e"
+          }
+        },
+        {
+          "client_id": "88743033248-d1nopfbdatjvm3fc203ct5gg56gikckh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq6RPCN4459yXJOehIoGVuSqvgZIAuajo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88743033248-d1nopfbdatjvm3fc203ct5gg56gikckh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
